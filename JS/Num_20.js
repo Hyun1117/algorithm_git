@@ -9,5 +9,4 @@ function solution(participant, completion) {
                     return answer = participant[i];
                 }
         }
-return answer;
 }
