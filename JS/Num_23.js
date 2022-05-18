@@ -13,6 +13,7 @@ function solution(n) {
 
     return answer;
 }
+//53542
 //수정 코드
 function solution(n) {
     var arr = n.toString().split('');
