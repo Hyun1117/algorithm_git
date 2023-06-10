@@ -1,7 +1,7 @@
 #### algorithm_git
 
 
-#Linked List
+# Linked List
 
 # STACK
 
