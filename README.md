@@ -3,6 +3,7 @@
 
 # Linked List
 
-# STACK
+# Stack
+
 
 
