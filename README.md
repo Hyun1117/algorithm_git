@@ -1,9 +1,14 @@
 #### algorithm_git
 
+# Array
 
-# Linked List
+# List
 
 # Stack
 
+# Queue
 
+# Graph
+
+# Tree
 
