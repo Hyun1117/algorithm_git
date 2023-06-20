@@ -4,6 +4,8 @@
 
 # List
 
+## Linked List
+
 # Stack
 
 # Queue
