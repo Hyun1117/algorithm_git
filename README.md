@@ -4,7 +4,7 @@
 
 # List
 
-## Linked List
+# Linked List
 
 # Stack
 
